@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409816943026",
+    "firebase_url": "https://drivingmonitor-2b588.firebaseio.com",
+    "project_id": "drivingmonitor-2b588",
+    "storage_bucket": "drivingmonitor-2b588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409816943026:android:2ea2148ca42cb23d",
+        "android_client_info": {
+          "package_name": "com.example.uae25.drivingmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409816943026-37g6go0mp921ltm1j7p76acev0chrup3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uae25.drivingmonitor",
+            "certificate_hash": "322bf490afc18a29b3c969e6735123677dd592af"
+          }
+        },
+        {
+          "client_id": "409816943026-58o0llv9muq3aev8eqiboadv9mtd0r08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQSu83ITZ16frogPwsgKK3k4vQORok8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409816943026-58o0llv9muq3aev8eqiboadv9mtd0r08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
